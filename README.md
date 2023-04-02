@@ -1,4 +1,4 @@
-# Data-Visualisation
+# ElectronicsStore Sales Report/Dashboard
 Hey coders, this are my repository regarding data visualisation using PowerBI.
 Here i am using PowerBI tool for visualisation.
 the data set and my visualisations are uploaded.
